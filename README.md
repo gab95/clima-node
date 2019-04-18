@@ -9,5 +9,5 @@ para las librerias
 
 ### ejemplo:
 ```
-node app -d "tarija bolivia"`
+node app -d "tarija bolivia"
 ```
