@@ -9,5 +9,5 @@ para las librerias
 
 ### ejemplo:
 ```
-return `no se pudo determinar el clima en ${direccion}`
+node app -d "tarija bolivia"`
 ```
